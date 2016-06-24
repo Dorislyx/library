@@ -273,7 +273,7 @@ var get ={
 
 
 
-    //拖拽对象
+    //拖拽函数
     drag : function (obj){
 
         //当mousedown时，计算出鼠标到要拖拽的元素左边的距离
